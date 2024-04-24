@@ -1,0 +1,21 @@
+Dla funkcji f(x) = sin(2x) - 2x^2
+
+Jaki będzie błąd względny i bezwzględny dla pochodnej liczonej ze wzoru różnicowego, dla h=0.01 i x=2pi
+W obliczeniach przyjmij, że pi~~3,1416
+
+Wartośći podaj z dokłądnością do 3 miejsca po przecinku.
+
+
+
+
+Chcemy interpolować pewną funkcję w przedziale ab=[-7 4] wybierając 33 wezły interpolacjyjne za pomocą wielomianu czebyszewa.
+Znajdź 2,7 i 16 węzeł.
+
+Oszacuj błąd interpolacji dla 
+dla funkcji f(x) =x^(1/3) 
+dla następujących węzłów interpolacji:
+1 8 27 64
+Oszacuj ten błąd dla węzłów interpolacji dobranych w tym rpzedziale za pomocą wielomianu Czebyszewa
+
+
+

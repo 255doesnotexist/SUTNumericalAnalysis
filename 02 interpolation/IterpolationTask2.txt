@@ -1,0 +1,14 @@
+For the following function, build Newton's interpolation polynomial:
+1:
+f = @(x)2*sin(x*x)+cos(sqrt(x));
+n=10
+a) ab=[0 1]
+b) ab=[0.5 1.5]
+
+2:
+f = @(x)exp(sin(x))+exp(x*x);
+n=10
+a) ab=[0 1.5]
+b) ab=[1.5 3]
+
+and plot/calculate value of function in interval AB=[-0.5 5] with step 0.2
