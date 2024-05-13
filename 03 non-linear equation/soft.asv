@@ -1,0 +1,15 @@
+
+a=0.10
+b=2.00
+eps=0.00010
+f= @(x) ln(x)
+
+i=1
+if f(b)*f(a)<0
+    disp("we can do it")
+
+xi=(a+b)/2
+
+else
+    disp("we can't")
+end
